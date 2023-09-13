@@ -1,0 +1,34 @@
+{
+  "name": "chenkai-cesiumwind",
+  "version": "1.0.2",
+  "description": "cesium wind，风场效果",
+  "main": "index.js",
+  "unpkg": "dist/cesium-wind.js",
+  "module": "dist/cesium-wind.esm.js",
+  "commonjs": "dist/cesium-wind.cjs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "wind",
+    "windfields",
+    "cesium"
+  ],
+  "author": "chenkai",
+  "license": "ISC",
+  "dependencies": {
+    "cesium": "^1.109.0"
+  },
+  "directories": {
+    "example": "example"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ochenkai/ckcesiumwind.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ochenkai/ckcesiumwind/issues"
+  },
+  "homepage": "https://github.com/ochenkai/ckcesiumwind#readme"
+}
